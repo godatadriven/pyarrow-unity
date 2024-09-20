@@ -1,3 +1,6 @@
+[![Github Actions Status](https://github.com/godatadriven/pyarrow-unity/workflows/test/badge.svg)](https://github.com/godatadriven/pyarrow-unity/actions/workflows/test.yml)
+
+
 ## pyarrow-unity
 
 This library provides functions to convert Pyarrow schema to Unity Catalog schema.  
