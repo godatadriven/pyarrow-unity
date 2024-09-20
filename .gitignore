@@ -1,0 +1,4 @@
+.envrc
+.coverage
+.idea/
+__pycache__/
